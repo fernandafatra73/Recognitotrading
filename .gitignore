@@ -1,2 +1,7 @@
 Capture/
 Recognito Trading Fernanda/
+py/build/
+py/dist/
+py/__pycache__/
+py/Capture/
+py/*.spec
